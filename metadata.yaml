@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7157
     wikipedia: http://en.wikipedia.org/wiki/Clement_Clarke_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17382#A-Visit-From-Saint-Nicholas
 gutenberg_bookshelf:
 - Children's Picture Books
 - Christmas
