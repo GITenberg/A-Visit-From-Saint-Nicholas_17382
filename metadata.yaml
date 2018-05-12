@@ -1,0 +1,56 @@
+_repo: A-Visit-From-Saint-Nicholas_17382
+_version: 0.1.0
+alternative_title: Night before Christmas
+back_cover:
+  cover_type: archival_back
+  image_path: 17382/17382-h/images/illo_png4.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+contributor:
+  illustrator:
+    agent_name: Darley, Felix Octavius Carr
+    alias: Darley, F. O. C. (Felix Octavius Carr)
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '7337'
+    url: http://www.gutenberg.org/2009/agents/7337
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Clement Clarke
+    alias: Moore, Clement C. (Clement Clarke)
+    birthdate: 1779
+    deathdate: 1863
+    gutenberg_agent_id: '7157'
+    url: http://www.gutenberg.org/2009/agents/7157
+    wikipedia: http://en.wikipedia.org/wiki/Clement_Clarke_Moore
+description: ''
+gutenberg_bookshelf:
+- Children's Picture Books
+- Christmas
+gutenberg_issued: '2005-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17382'
+language: en
+publication_note: "New York:\r\nJames G. Gregory, Publisher."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Narrative poetry'
+- !lcsh 'Children''s poetry, American'
+- !lcsh 'Santa Claus -- Juvenile poetry'
+- !lcc 'PS'
+summary: A fun and wonderfully illustrated version of Night Before Christmas.
+title: A Visit From Saint Nicholas
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 17382/17382-h/images/title_page.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/17382
